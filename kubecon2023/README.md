@@ -1,4 +1,4 @@
-# KubeCon RedHat In-booth presentation
+# RedHat In-booth presentation at KubeCon
 
 * **November 7 @ 11:30am**
 * **Title:** Red Hat OpenShift Ingress in a Multi-Cluster World with NGINX + BIG-IP
